@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T113000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T120000
+SUMMARY:Charla Sponsor Green Armor
+DESCRIPTION:Charla Sponsor Green Armor
+LOCATION:Estación 3 - Sala de Sponsors
+END:VEVENT
+END:VCALENDAR

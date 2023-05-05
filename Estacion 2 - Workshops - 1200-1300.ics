@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T120000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T130000
+SUMMARY:ESG en acción por Dolores Liendo y Silvia Miñones
+DESCRIPTION:ESG en acción por Dolores Liendo y Silvia Miñones
+LOCATION:Estación 2 - Workshops
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T120000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T123000
+SUMMARY:Cómo invierten las mujeres por Cecilia Giordano
+DESCRIPTION:Cómo invierten las mujeres por Cecilia Giordano
+LOCATION:Escenario
+END:VEVENT
+END:VCALENDAR
