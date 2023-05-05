@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T110000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T120000
+SUMMARY:Ciberseguridad por Christian Rada
+DESCRIPTION:Ciberseguridad por Christian Rada
+LOCATION:Estación 2 - Workshops
+END:VEVENT
+END:VCALENDAR

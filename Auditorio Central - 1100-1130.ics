@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T110000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T113000
+SUMMARY:Inteligencia Artificial, Up and Running! por Agustina Resano
+DESCRIPTION:Inteligencia Artificial, Up and Running! por Agustina Resano
+LOCATION:Auditorio Central
+END:VEVENT
+END:VCALENDAR

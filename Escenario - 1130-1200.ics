@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T113000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T120000
+SUMMARY:Bienestar y beneficios bajo una mirada estratégica por Carlos Rubio y Julieta Doldo
+DESCRIPTION:Bienestar y beneficios bajo una mirada estratégica por Carlos Rubio y Julieta Doldo
+LOCATION:Escenario
+END:VEVENT
+END:VCALENDAR

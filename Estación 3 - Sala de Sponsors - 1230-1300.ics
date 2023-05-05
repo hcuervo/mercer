@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T123000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T130000
+SUMMARY:Charla Sponsor WeWork
+DESCRIPTION:Charla Sponsor WeWork
+LOCATION:Estación 3 - Sala de Sponsors
+END:VEVENT
+END:VCALENDAR

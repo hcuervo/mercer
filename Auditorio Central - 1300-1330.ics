@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T130000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T133000
+SUMMARY:Capital humano y gestión de riesgos por Mercedes Bernardi y Sebastián Tobio
+DESCRIPTION:Capital humano y gestión de riesgos por Mercedes Bernardi y Sebastián Tobio
+LOCATION:Auditorio Central
+END:VEVENT
+END:VCALENDAR

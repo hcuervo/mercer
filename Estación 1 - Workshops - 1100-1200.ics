@@ -1,0 +1,10 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Argentina/Buenos_Aires:20230511T110000
+DTEND;TZID=America/Argentina/Buenos_Aires:20230511T120000
+SUMMARY:Gestión del talento por habilidades por Viviana Cesáreo y Mercedes Bernardi
+DESCRIPTION:Gestión del talento por habilidades por Viviana Cesáreo y Mercedes Bernardi
+LOCATION:Estación 1 - Workshops
+END:VEVENT
+END:VCALENDAR
